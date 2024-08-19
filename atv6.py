@@ -1,3 +1,5 @@
+## Este código converte uma temperatura de Fahrenheit para Celsius e exibe o resultado arredondado para duas casas decimais. 
+
 # Interação com o usuário 
 fahrenheit = float(input("Digite a temperatura em graus Fahrenheit: "))
 

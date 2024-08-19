@@ -1,3 +1,5 @@
+## Esse código realiza a soma de dois números inteiros inseridos pelo usuário e exibe o resultado. 
+
 # Interação com o usuario
 num1 = int(input("Digite um número: "))
 num2 = int(input("Digite um número: "))

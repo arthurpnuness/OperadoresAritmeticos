@@ -1,3 +1,5 @@
+## Este código realiza uma série de operações aritméticas com dois números fornecidos pelo usuário e exibe os resultados de todas essas operações. 
+
 # Interação com o usuário
 num1 = int(input("Digite um número: "))
 num2 = int(input("Digite um número: "))

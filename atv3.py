@@ -1,3 +1,5 @@
+## Este código calcula a área de um círculo com base no raio fornecido pelo usuário. 
+
 #interação com o usuário
 raio = float(input("Digite o raio do círculo: ")) 
 

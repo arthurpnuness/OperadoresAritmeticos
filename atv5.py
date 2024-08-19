@@ -1,3 +1,5 @@
+## Este código calcula a média final de um aluno com base nas notas de três provas fornecidas e exibe o resultado junto com o nome do aluno.
+
 # Interação com o usuário
 nome = input("Digite teu nome: ")
 nota1 = float(input("Digite a nota da tua primeira prova: "))
