@@ -4,9 +4,9 @@
 cavalos = int(input('Quantos cavalos tem na fazenda? '))
 
 # Calculo
-nFerraduras = cavalos  
+nFerraduras = cavalos * 4
 preco = 80
-valorTotal = cavalos * preco
+valorTotal = nFerraduras * preco
 
 # Exibe o resultado
 print('O valor total para trocar as ferraduras do(s) cavalos(s) é de R${}'.format(valorTotal))
