@@ -8,5 +8,5 @@ nFerraduras = cavalos * 4
 preco = 80
 valorTotal = nFerraduras * preco
 
-# Exibe o resultado
+# Exibe o resultadoo
 print('O valor total para trocar as ferraduras do(s) cavalos(s) é de R${}'.format(valorTotal))
