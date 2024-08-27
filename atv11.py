@@ -8,4 +8,4 @@ anoAtual = int(input('Em qual ano voce está? '))
 idade = anoAtual - dataNasc
 
 #Exibe o resultado
-print('O tem {} anos'.format(idade))
+print('Você tem {} anos'.format(idade))

@@ -7,7 +7,7 @@ custo = int(input('Digite o preço de custo do produto:'))
 
 # Calculos
 acrescimo = custo * 0.30
-venda = custo + ( custo +( custo * 0.30))
+venda = custo + acrescimo
 dobro = venda * 2
 metade = venda / 2
 
